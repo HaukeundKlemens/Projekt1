@@ -26,3 +26,4 @@ Heute haben wir angefangen, uns mit den Grundlagen von Greenfoot zu beschäftige
 Außerdem haben wir uns dazu entschieden, zukünftig mit Greenfoot zu arbeiten und haben Greenfoot dafür installiert.
 
 ### [Mittwoch, 24. August 2022](#3)
+Heute haben wir uns weiter mit Greenfoot beschäftigt und unter anderem das Tutorial mit dem Wombat und den Krabben geöffnet und auch ausprobiert.
