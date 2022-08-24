@@ -27,3 +27,4 @@ Außerdem haben wir uns dazu entschieden, zukünftig mit Greenfoot zu arbeiten u
 
 ### [Mittwoch, 24. August 2022](#3)
 Heute haben wir uns weiter mit Greenfoot beschäftigt und unter anderem das Tutorial mit dem Wombat und den Krabben geöffnet und auch ausprobiert.
+![image](https://user-images.githubusercontent.com/111414678/186354399-99ecf258-8ab4-4eaa-8e2f-e6f8a3f553ae.png)
