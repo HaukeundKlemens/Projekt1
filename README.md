@@ -32,3 +32,4 @@ Wir haben außerdem noch ein Bild von Grünkohl und Minze gedownloaded.
 
 ### [Dienstag, 30.08.2022](#4)
 In der heutigen Stunde haben wir mit dem Greenfoot Tutorial weiter gemacht und herausgefunden, wie wir die Befehle "turn" und "move" verwenden können.
+![image](https://user-images.githubusercontent.com/111414678/187420290-b5cebf43-894e-4437-93a3-19d342f11e88.png)
