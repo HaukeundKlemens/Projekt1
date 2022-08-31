@@ -43,4 +43,6 @@ In der heutigen Stunde haben wir mit dem Greenfoot Tutorial weiter gemacht und h
 Auf diese Weise haben wir die Objekte "Crab" und "WURRRM" zum laufen gebracht.
 
 ### <a name="5"></a>Mittwoch, 31. August 2022
-Heute haben wir die Crab und den WURRM dazu gebrachrt, miteinander zu interagieren. Der WURRM kann jetzt die Crab essen.
+Heute haben wir mit dem Tutorial weitergemacht.
+Wir haben auch die Crab und den WURRM dazu gebrachrt, miteinander zu interagieren. Der WURRM kann jetzt die Crab essen.
+Außerdem haben wir rausgefunden, wie man Sounds selber aufnimmt und in den Code einsetzt. GÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄHNNNN
