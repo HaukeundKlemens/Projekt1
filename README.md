@@ -35,7 +35,7 @@ Außerdem haben wir uns dazu entschieden, zukünftig mit Greenfoot zu arbeiten u
 ### <a name="3"></a>Mittwoch, 24. August 2022
 Heute haben wir uns weiter mit Greenfoot beschäftigt und unter anderem das Tutorial mit dem Wombat und den Krabben geöffnet und auch ausprobiert.
 ![image](https://user-images.githubusercontent.com/111414678/186354399-99ecf258-8ab4-4eaa-8e2f-e6f8a3f553ae.png)
-Wir haben außerdem noch ein Bild von Grünkohl und Minze gedownloaded.
+Wir haben außerdem noch ein Bild von Grünkohl und Minze gedownloaded und herausgefunden, wie man Bilder als Icons für Actors einfügt.
 
 ### <a name="4"></a>Dienstag, 30. August 2022
 In der heutigen Stunde haben wir mit dem Greenfoot Tutorial weiter gemacht und herausgefunden, wie wir die Befehle "turn" und "move" verwenden können.
