@@ -19,6 +19,12 @@ Heute haben wir uns bei Github angemeldet und erste Schritte auf GIthub unternom
 
 [Dienstag, 23. August 2022](#2)
 
+[Mittwoch, 24. August 2022](#3)
+
+[Dienstag, 30. August 2022](#4)
+
+[Mittwoch, 31. August 2022](#5)
+
 
 ### <a name="1"></a>Mittwoch, 17. August 2022
 
@@ -28,12 +34,15 @@ Heute haben wir uns bei Github angemeldet und erste Schritte auf GIthub unternom
 Heute haben wir angefangen, uns mit den Grundlagen von Greenfoot zu beschäftigen, indem wir uns dazu Youtube-Tutorials angeschaut haben.https://www.youtube.com/watch?v=A2JiDwqr7Os
 Außerdem haben wir uns dazu entschieden, zukünftig mit Greenfoot zu arbeiten und haben Greenfoot dafür installiert.
 
-### [Mittwoch, 24. August 2022](#3)
+### <a name="3"></a>Mittwoch, 24. August 2022
 Heute haben wir uns weiter mit Greenfoot beschäftigt und unter anderem das Tutorial mit dem Wombat und den Krabben geöffnet und auch ausprobiert.
 ![image](https://user-images.githubusercontent.com/111414678/186354399-99ecf258-8ab4-4eaa-8e2f-e6f8a3f553ae.png)
 Wir haben außerdem noch ein Bild von Grünkohl und Minze gedownloaded.
 
-### [Dienstag, 30.08.2022](#4)
+### <a name="4"></a>Dienstag, 30. August 2022
 In der heutigen Stunde haben wir mit dem Greenfoot Tutorial weiter gemacht und herausgefunden, wie wir die Befehle "turn" und "move" verwenden können.
 ![image](https://user-images.githubusercontent.com/111414678/187420290-b5cebf43-894e-4437-93a3-19d342f11e88.png)
 Auf diese Weise haben wir die Objekte "Crab" und "WURRRM" zum laufen gebracht.
+
+### <a name="5"></a>Mittwoch, 31. August 2022
+Heute 
