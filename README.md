@@ -45,4 +45,8 @@ Auf diese Weise haben wir die Objekte "Crab" und "WURRRM" zum laufen gebracht.
 ### <a name="5"></a>Mittwoch, 31. August 2022
 Heute haben wir mit dem Tutorial weitergemacht.
 Wir haben auch die Crab und den WURRM dazu gebrachrt, miteinander zu interagieren. Der WURRM kann jetzt die Crab essen.
-Außerdem haben wir rausgefunden, wie man Sounds selber aufnimmt und in den Code einsetzt. Dazu war Hauke sehr müde GÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄHNNNN
+Außerdem haben wir rausgefunden, wie man Sounds selber aufnimmt und in den Code einsetzt. 
+Dazu haben wir mit einem aus dem Internet eingefügten Bild eine neue Klasse namens "Grünkohl" eingefügt.
+![image](https://user-images.githubusercontent.com/111414678/187618040-337cdf5d-6666-43d5-991f-b7172a28c7ff.png)
+
+
