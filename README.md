@@ -49,7 +49,7 @@ Dazu haben wir mit einem aus dem Internet eingefügten Bild eine neue Klasse nam
 ![image](https://user-images.githubusercontent.com/111414678/187618040-337cdf5d-6666-43d5-991f-b7172a28c7ff.png)
 
 ### <a name="6"></a>Dienstag, 6. September 2022
-Wir haben in der heutigen Stunde mit dem Tutorial weitergemacht und dabei heute herausgefunden, wie man einen Actor dazu bringt, eine bestimmte Anzahl an Frames zufällig in eine Richtung zu laufen und sich dabei zufällig und bei Berührung des Randes um 180 Grad umzudrehen.
+Wir haben in der heutigen Stunde mit dem Tutorial weitergemacht und dabei heute herausgefunden, wie man einen Actor (MCLobster) dazu bringt, sich eine bestimmte Anzahl an Frames zufällig zu bewegen und sich dabei bei Berührung des Randes um 180 Grad umzudrehen. Mit dem Grünkohl haben wir heute nichts weiter gemacht
 ![image](https://user-images.githubusercontent.com/111414678/188618423-c1baa723-e49e-4c77-962c-6768e5800ceb.png)
 
 
