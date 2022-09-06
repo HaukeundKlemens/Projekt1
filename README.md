@@ -23,6 +23,8 @@ Heute haben wir uns bei Github angemeldet und erste Schritte auf Github unternom
 
 [Mittwoch, 31. August 2022](#5)
 
+[Dienstag, 6. August 2022](#6)
+
 
 ### <a name="1"></a>Mittwoch, 17. August 2022
 
@@ -48,5 +50,8 @@ Wir haben auch die Crab und den WURRM dazu gebrachrt, miteinander zu interagiere
 Außerdem haben wir rausgefunden, wie man Sounds selber aufnimmt und in den Code einsetzt. 
 Dazu haben wir mit einem aus dem Internet eingefügten Bild eine neue Klasse namens "Grünkohl" eingefügt.
 ![image](https://user-images.githubusercontent.com/111414678/187618040-337cdf5d-6666-43d5-991f-b7172a28c7ff.png)
+
+### <a name="6"></a>Dienstag, 6. September 2022
+Wir haben in der heutigen Stunde mit dem Tutorial weitergemacht und dabei heute herausgefunden, wie man einen Actor dazu bringt, eine bestimmte Anzahl an Frames zufällig in eine Richtung zu laufen und sich dabei zufällig und bei Berührung des Randes um 180 Grad umzudrehen.
 
 
