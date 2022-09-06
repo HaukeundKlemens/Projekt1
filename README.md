@@ -53,5 +53,6 @@ Dazu haben wir mit einem aus dem Internet eingefügten Bild eine neue Klasse nam
 
 ### <a name="6"></a>Dienstag, 6. September 2022
 Wir haben in der heutigen Stunde mit dem Tutorial weitergemacht und dabei heute herausgefunden, wie man einen Actor dazu bringt, eine bestimmte Anzahl an Frames zufällig in eine Richtung zu laufen und sich dabei zufällig und bei Berührung des Randes um 180 Grad umzudrehen.
+![image](https://user-images.githubusercontent.com/111414678/188618423-c1baa723-e49e-4c77-962c-6768e5800ceb.png)
 
 
