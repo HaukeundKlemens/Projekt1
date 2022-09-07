@@ -53,3 +53,7 @@ Wir haben in der heutigen Stunde mit dem Tutorial weitergemacht und dabei heute 
 ![image](https://user-images.githubusercontent.com/111414678/188618423-c1baa723-e49e-4c77-962c-6768e5800ceb.png)
 
 
+### <a name="7"></a>Mittwoch, 7.September 2022
+Heute haben wir unsere Eigene Welt erstellt und ein Objekt erzeugt und gleichzeitig 10 Fehler, die wir noch nicht kennen, erzeugt.
+In einem Youtube Tutorial haben wir auch gesehen, wie unser Code eigentlich funktiionieren sollte.
+![image](https://user-images.githubusercontent.com/111414678/188813258-603e791b-ef6e-4537-848a-c4278944448d.png)
