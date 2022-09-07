@@ -57,3 +57,4 @@ Wir haben in der heutigen Stunde mit dem Tutorial weitergemacht und dabei heute 
 Heute haben wir unsere Eigene Welt erstellt und ein Objekt erzeugt und gleichzeitig 10 Fehler, die wir noch nicht kennen, erzeugt.
 In einem Youtube Tutorial haben wir auch gesehen, wie unser Code eigentlich funktiionieren sollte.
 ![image](https://user-images.githubusercontent.com/111414678/188813258-603e791b-ef6e-4537-848a-c4278944448d.png)
+Leider haben wir wahrscheinlich einen Fehler in der Benennung gemacht, sodass der Code nur einmal ausgeführt wird.
