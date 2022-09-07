@@ -58,3 +58,4 @@ Heute haben wir unsere Eigene Welt erstellt und ein Objekt erzeugt und gleichzei
 In einem Youtube Tutorial haben wir auch gesehen, wie unser Code eigentlich funktiionieren sollte.
 ![image](https://user-images.githubusercontent.com/111414678/188813258-603e791b-ef6e-4537-848a-c4278944448d.png)
 Leider haben wir wahrscheinlich einen Fehler in der Benennung gemacht, sodass der Code nur einmal ausgeführt wird.
+Vielleicht liegt es daran, dass wir ein .png vergessen haben.
