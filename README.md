@@ -59,3 +59,6 @@ In einem Youtube Tutorial haben wir auch gesehen, wie unser Code eigentlich funk
 ![image](https://user-images.githubusercontent.com/111414678/188813258-603e791b-ef6e-4537-848a-c4278944448d.png)
 Leider haben wir wahrscheinlich einen Fehler in der Benennung gemacht, sodass der Code nur einmal ausgeführt wird.
 Vielleicht liegt es daran, dass wir ein .png vergessen haben.
+
+### <a name="8"></a>Dienstag, 13.September 2022
+In der heutigen Stunde hat uns zuerst Herr Buhl einige Befehle erklärt. Außerdem hat er uns die Befehl-Bibliothek file:///C:/Program%20Files/Greenfoot/doc/API/greenfoot/Actor.html gezeigt.
