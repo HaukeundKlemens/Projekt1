@@ -26,6 +26,8 @@
 
 [Dienstag, 13. September 2022](#8)
 
+[Mittwoch, 14. September 2022](#7)
+
 
 
 ### <a name="1"></a>Mittwoch, 17. August 2022
@@ -69,3 +71,5 @@ Vielleicht liegt es daran, dass wir ein .png vergessen haben.
 In der heutigen Stunde hat uns zuerst Herr Buhl einige Befehle erklärt. Außerdem hat er uns die Befehl-Bibliothek file:///C:/Program%20Files/Greenfoot/doc/API/greenfoot/Actor.html gezeigt und unseren Code komprimiert.
 ![image](https://user-images.githubusercontent.com/111414678/189882075-ea632c78-51b2-4b47-a48e-27228d532633.png)
 
+### <a name="9"></a>Mittwoch, 14.September 2022
+Heute haben wir
