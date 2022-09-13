@@ -61,4 +61,6 @@ Leider haben wir wahrscheinlich einen Fehler in der Benennung gemacht, sodass de
 Vielleicht liegt es daran, dass wir ein .png vergessen haben.
 
 ### <a name="8"></a>Dienstag, 13.September 2022
-In der heutigen Stunde hat uns zuerst Herr Buhl einige Befehle erklärt. Außerdem hat er uns die Befehl-Bibliothek file:///C:/Program%20Files/Greenfoot/doc/API/greenfoot/Actor.html gezeigt.
+In der heutigen Stunde hat uns zuerst Herr Buhl einige Befehle erklärt. Außerdem hat er uns die Befehl-Bibliothek file:///C:/Program%20Files/Greenfoot/doc/API/greenfoot/Actor.html gezeigt und unseren Code komprimiert.
+![image](https://user-images.githubusercontent.com/111414678/189882075-ea632c78-51b2-4b47-a48e-27228d532633.png)
+
