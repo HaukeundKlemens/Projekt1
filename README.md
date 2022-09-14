@@ -73,3 +73,5 @@ In der heutigen Stunde hat uns zuerst Herr Buhl einige Befehle erklärt. Außerd
 
 ### <a name="9"></a>Mittwoch, 14.September 2022
 Heute haben wir
+
+Ritter fallen und laufen.
