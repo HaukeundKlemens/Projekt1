@@ -76,7 +76,7 @@ In der heutigen Stunde hat uns zuerst Herr Buhl einige Befehle erklärt. Außerd
 Heute habe ich (Hauke), weil Klemens krankheitsbedingt nicht anwesend war, durch ein Youtube Tutorial, einen Ritter laufen und fallen gelassen.
 
 ### <a name="10"></a>Dienstag, 27.September 2022
-Wir haben heute im Ritter-Szenario die Schlange dazu gebracht, den Frosch zu futtern.
+Wir haben heute im Ritter-Szenario die Schlange dazu gebracht, den Frosch zu futtern, indem wir das in die Codes von Schlange und Frosch hereingeschrieben haben.
 ![image](https://user-images.githubusercontent.com/111414678/192508070-28ad997c-37d7-4da1-a799-07bb12911938.png)
 ![image](https://user-images.githubusercontent.com/111414678/192508162-ce54dc14-f187-4676-84f4-9bbe630fb5aa.png)
 Außerdem haben wir die Jumpn-Run Tutorials vom Informatikkeller weitergeguckt.
