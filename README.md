@@ -79,3 +79,5 @@ Heute habe ich (Hauke), weil Klemens krankheitsbedingt nicht anwesend war, durch
 Wir haben heute im Ritter-Szenario die Schlange dazu gebracht, den Frosch zu futtern.
 ![image](https://user-images.githubusercontent.com/111414678/192508070-28ad997c-37d7-4da1-a799-07bb12911938.png)
 ![image](https://user-images.githubusercontent.com/111414678/192508162-ce54dc14-f187-4676-84f4-9bbe630fb5aa.png)
+Außerdem haben wir die Jumpn-Run Tutorials vom Informatikkeller weitergeguckt.
+https://www.youtube.com/watch?v=VhA8GYBl59o
