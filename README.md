@@ -73,7 +73,7 @@ In der heutigen Stunde hat uns zuerst Herr Buhl einige Befehle erklärt. Außerd
 ![image](https://user-images.githubusercontent.com/111414678/189882075-ea632c78-51b2-4b47-a48e-27228d532633.png)
 
 ### <a name="9"></a>Mittwoch, 14.September 2022
-Heute habe ich (Hauke), weil Klemens krankheitsbedingt nicht anwesend war, durch ein Youtube Tutorial, einen Ritter laufen und fallen gelassen.
+Heute habe ich (Hauke), weil Klemens krankheitsbedingt nicht anwesend war, durch ein Youtube Tutorial, einen Ritter laufen und fallen gelassen. Außerdem habe ich dem Ritter, das dafür vorgesehene Bild für nach links laufen eingefügt, damit der Ritter nicht rückwärts laufen muss. 
 
 ### <a name="10"></a>Dienstag, 27.September 2022
 Wir haben heute im Ritter-Szenario die Schlange dazu gebracht, den Frosch zu futtern, indem wir das in die Codes von Schlange und Frosch hereingeschrieben haben.
