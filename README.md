@@ -72,6 +72,4 @@ In der heutigen Stunde hat uns zuerst Herr Buhl einige Befehle erklärt. Außerd
 ![image](https://user-images.githubusercontent.com/111414678/189882075-ea632c78-51b2-4b47-a48e-27228d532633.png)
 
 ### <a name="9"></a>Mittwoch, 14.September 2022
-Heute haben wir
-
-Ritter fallen und laufen.
+Heute habe ich (Hauke), weil Klemens krankheitsbedingt nicht anwesend war, durch ein Youtube Tutorial, einen Ritter laufen und fallen gelassen.
