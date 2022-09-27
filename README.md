@@ -28,6 +28,7 @@
 
 [Mittwoch, 14. September 2022](#9)
 
+[Dienstag, 27. September 2022](#10)
 
 
 ### <a name="1"></a>Mittwoch, 17. August 2022
@@ -73,3 +74,6 @@ In der heutigen Stunde hat uns zuerst Herr Buhl einige Befehle erklärt. Außerd
 
 ### <a name="9"></a>Mittwoch, 14.September 2022
 Heute habe ich (Hauke), weil Klemens krankheitsbedingt nicht anwesend war, durch ein Youtube Tutorial, einen Ritter laufen und fallen gelassen.
+
+### <a name="10"></a>Dienstag, 27.September 2022
+Wir haben heute im Ritter-Szenario die Schlange dazu gebracht, den Frosch zu futtern.
