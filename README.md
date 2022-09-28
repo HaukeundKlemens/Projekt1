@@ -85,4 +85,4 @@ Außerdem haben wir die Jumpn-Run Tutorials vom Informatikkeller weitergeguckt.
 https://www.youtube.com/watch?v=VhA8GYBl59o
 
 ### <a name="11"></a>Mittwoch, 28.September 2022
-Heute habe ich den Ritter zum Springen gebracht, allerdings ist noch irgendwo ein Fehler im Mehrfachspringen.
+Heute habe ich den Ritter zum Springen gebracht, allerdings ist noch irgendwo ein Fehler im Mehrfachspringen.(Das lag daran, dass er auf Plattformen Springen kann, der Rasen ist allerdings keine Plattform, sondern eine willkürlich gezogene Linie, weshalb er dort nicht springen konnte.)
