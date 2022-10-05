@@ -91,6 +91,7 @@ Heute habe ich den Ritter zum Springen gebracht, allerdings ist noch irgendwo ei
 
 ### <a name="12"></a>Mittwoch, 5. Oktober 2022
 In der heutigen Stunde haben wir es geschafft, herauszufinden wie die Welt heißt.
-Wir haben das Tutorial https://www.youtube.com/watch?v=FoD7cjW_5lU geguckt und haben dadurch erfahren, wie man eine Welt dazu bringt, unendlich zu sein.
+Wir haben das Tutorial geguckt und haben dadurch erfahren, wie man eine Welt dazu bringt, unendlich zu sein.
+https://www.youtube.com/watch?v=FoD7cjW_5lU
 ![image](https://user-images.githubusercontent.com/111414678/194000603-b8c89721-62b2-477c-8dcb-8765b3e7a047.png)
 
