@@ -32,6 +32,8 @@
 
 [Mittwoch, 28. September 2022](#11)
 
+[Mittwoch, 5. oktober 2022](#12)
+
 
 ### <a name="1"></a>Mittwoch, 17. August 2022
 
@@ -86,3 +88,9 @@ https://www.youtube.com/watch?v=VhA8GYBl59o
 
 ### <a name="11"></a>Mittwoch, 28.September 2022
 Heute habe ich den Ritter zum Springen gebracht, allerdings ist noch irgendwo ein Fehler im Mehrfachspringen.(Das lag daran, dass er auf Plattformen Springen kann, der Rasen ist allerdings keine Plattform, sondern eine willkürlich gezogene Linie, weshalb er dort nicht springen konnte.)
+
+### <a name="12"></a>Mittwoch, 5. Oktober 2022
+In der heutigen Stunde haben wir es geschafft, herauszufinden wie die Welt heißt.
+Wir haben das Tutorial https://www.youtube.com/watch?v=FoD7cjW_5lU geguckt und haben dadurch erfahren, wie man eine Welt dazu bringt, unendlich zu sein.
+![image](https://user-images.githubusercontent.com/111414678/194000603-b8c89721-62b2-477c-8dcb-8765b3e7a047.png)
+
