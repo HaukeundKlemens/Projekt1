@@ -34,6 +34,8 @@
 
 [Mittwoch, 5. Oktober 2022](#12)
 
+[Mittwoch, 26. Oktober 2022](#13)
+
 
 ### <a name="1"></a>Mittwoch, 17. August 2022
 
@@ -94,4 +96,7 @@ In der heutigen Stunde haben wir es geschafft, herauszufinden wie die Welt heiß
 Wir haben das Tutorial geguckt und haben dadurch erfahren, wie man eine Welt dazu bringt, unendlich zu sein.
 https://www.youtube.com/watch?v=FoD7cjW_5lU
 ![image](https://user-images.githubusercontent.com/111414678/194000603-b8c89721-62b2-477c-8dcb-8765b3e7a047.png)
+
+### <a name="13"></a>Mittwoch, 26. Oktober 2022
+Wir haben in der heutigen Stunde das Problem gehabt, dass unser Code nicht funktioniert hat und die Welt nicht verschoben wurde. Das haben wir dann gelöst, indem wir... blabla
 
