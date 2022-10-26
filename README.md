@@ -98,5 +98,5 @@ https://www.youtube.com/watch?v=FoD7cjW_5lU
 ![image](https://user-images.githubusercontent.com/111414678/194000603-b8c89721-62b2-477c-8dcb-8765b3e7a047.png)
 
 ### <a name="13"></a>Mittwoch, 26. Oktober 2022
-Wir haben in der heutigen Stunde das Problem gehabt, dass unser Code nicht funktioniert hat und die Welt nicht verschoben wurde, dabei haben wir unter anderem einen fehler mit den Steuerungstasten behoben, wo wir die Methode zweimal geschrieben haben.
+Wir haben in der heutigen Stunde das Problem gehabt, dass unser Code nicht funktioniert hat und die Welt nicht verschoben wurde, dabei haben wir unter anderem einen fehler mit den Steuerungstasten behoben, wo wir die Methode zweimal geschrieben haben. Hilfreich dafür war dieses Tutorial von informatikkeller. https://www.youtube.com/watch?v=FoD7cjW_5lU&t=1565s
 
