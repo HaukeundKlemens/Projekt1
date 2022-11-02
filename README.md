@@ -103,4 +103,4 @@ https://www.youtube.com/watch?v=FoD7cjW_5lU
 Wir haben in der heutigen Stunde das Problem gehabt, dass unser Code nicht funktioniert hat und die Welt nicht verschoben wurde, dabei haben wir unter anderem einen fehler mit den Steuerungstasten behoben, wo wir die Methode zweimal geschrieben haben. Hilfreich dafür war dieses Tutorial von informatikkeller. https://www.youtube.com/watch?v=FoD7cjW_5lU&t=1565s
 
 ### <a name="14"></a>Mittwoch, 2. November 2022
-Heute haben wir es geschafft, unseren Fehler zu beheben und den Hintergrund zum scrollen zu bringen, sodass sich die Hindernisse mitbewegen und der Player nicht.
+Heute haben wir es in der ersten Stunde geschafft, unseren Fehler zu beheben und den Hintergrund zum scrollen zu bringen, sodass sich die Hindernisse mitbewegen und der Player nicht. In der zweiten Stunde haben wir dann
