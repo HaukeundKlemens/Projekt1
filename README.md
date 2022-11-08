@@ -38,6 +38,8 @@
 
 [Mittwoch, 2. November 2022](#14)
 
+[Dienstag, 8. November 2022](#15)
+
 
 ### <a name="1"></a>Mittwoch, 17. August 2022
 
@@ -104,3 +106,6 @@ Wir haben in der heutigen Stunde das Problem gehabt, dass unser Code nicht funkt
 
 ### <a name="14"></a>Mittwoch, 2. November 2022
 Heute haben wir es in der ersten Stunde geschafft, unseren Fehler zu beheben und den Hintergrund zum scrollen zu bringen, sodass sich die Hindernisse mitbewegen und der Player nicht. In der zweiten Stunde haben wir dann
+
+### <a name="15"></a>Dienstag, 8.November 2022
+In der heutigen Stunde hatten wir das Problem, dass der Frosch
