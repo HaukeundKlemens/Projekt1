@@ -108,4 +108,4 @@ Wir haben in der heutigen Stunde das Problem gehabt, dass unser Code nicht funkt
 Heute haben wir es in der ersten Stunde geschafft, unseren Fehler zu beheben und den Hintergrund zum scrollen zu bringen, sodass sich die Hindernisse mitbewegen und der Player nicht. In der zweiten Stunde haben wir dann
 
 ### <a name="15"></a>Dienstag, 8.November 2022
-In der heutigen Stunde hatten wir das Problem, dass der Frosch
+In der heutigen Stunde hatten wir das Problem, dass der Frosch aus der Welt gefallen ist. Dieses Problem konnten wir in dieser Stunde noch nicht lösen. Wir haben aber herausgefunden, dass man einen Frosch auf einer Mauern sitzen lassen kann, wenn man die Pixelhöhe des Frosches ändert. 
