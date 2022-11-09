@@ -115,3 +115,4 @@ In der heutigen Stunde hatten wir das Problem, dass der Frosch aus der Welt gefa
 ### <a name="16"></a>Mittwoch, 9. November 2022
 Wir haben heute die Plattformen des Jump and Runs I'm die Welt geschrieben und auf pixelart.com ein Bild für den Grünkohl gemalt.
 ![image](https://user-images.githubusercontent.com/111414678/200775384-f1a68ee8-6a0a-4be0-b7ba-00df93c7c7e3.png)
+Hier das Bild vom Grünkohl mit einem Ausschnitt vom Code.
