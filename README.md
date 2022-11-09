@@ -113,5 +113,5 @@ Heute haben wir es in der ersten Stunde geschafft, unseren Fehler zu beheben und
 In der heutigen Stunde hatten wir das Problem, dass der Frosch aus der Welt gefallen ist. Dieses Problem konnten wir in dieser Stunde noch nicht lösen. Wir haben aber herausgefunden, dass man einen Frosch auf einer Mauern sitzen lassen kann, wenn man die Pixelhöhe des Frosches ändert. 
 
 ### <a name="16"></a>Mittwoch, 9. November 2022
-Wir haben heute 
+Wir haben heute die Plattformen des Jump and Runs I'm die Welt geschrieben und auf pixelart.com ein Bild für den Grünkohl gemalt.
 **screenshot rein da
