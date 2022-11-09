@@ -114,3 +114,4 @@ In der heutigen Stunde hatten wir das Problem, dass der Frosch aus der Welt gefa
 
 ### <a name="16"></a>Mittwoch, 9. November 2022
 Wir haben heute 
+**screenshot rein da
