@@ -113,6 +113,6 @@ Heute haben wir es in der ersten Stunde geschafft, unseren Fehler zu beheben und
 In der heutigen Stunde hatten wir das Problem, dass der Frosch aus der Welt gefallen ist. Dieses Problem konnten wir in dieser Stunde noch nicht lösen. Wir haben aber herausgefunden, dass man einen Frosch auf einer Mauern sitzen lassen kann, wenn man die Pixelhöhe des Frosches ändert. 
 
 ### <a name="16"></a>Mittwoch, 9. November 2022
-Wir haben heute die Plattformen des Jump and Runs I'm die Welt geschrieben und auf pixelart.com ein Bild für den Grünkohl gemalt.
+Wir haben heute die Plattformen des Jump and Runs I'm die Welt geschrieben und auf pixelart.com ein Bild für den Grünkohl gemalt. Außerdem haben wir die Schlange dazu gebracht, den Spieler zu töten.
 ![image](https://user-images.githubusercontent.com/111414678/200775384-f1a68ee8-6a0a-4be0-b7ba-00df93c7c7e3.png)
 Hier das Bild vom Grünkohl mit einem Ausschnitt vom Code.
