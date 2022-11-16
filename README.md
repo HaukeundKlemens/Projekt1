@@ -117,3 +117,6 @@ Wir haben heute die Plattformen des Jump and Runs in die Welt geschrieben und au
 ![image](https://user-images.githubusercontent.com/111414678/200775384-f1a68ee8-6a0a-4be0-b7ba-00df93c7c7e3.png)
 Hier das Bild vom Grünkohl mit einem Ausschnitt vom Code.
 
+### <a name="17"></a>Mittwoch, 16. November 2022
+Heute haben wir mit Pixelart das Bild der Minze gemalt und zusammen mit dem Grünkohl aus der letzten Stunde ins Spiel eingefügt.
+![image](https://user-images.githubusercontent.com/111414678/202114111-7e7086cb-a0dc-40ed-bb6d-1ccfb299c72b.png)
