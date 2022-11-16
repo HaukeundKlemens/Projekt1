@@ -122,3 +122,5 @@ Hier das Bild vom Grünkohl mit einem Ausschnitt vom Code.
 ### <a name="17"></a>Mittwoch, 16. November 2022
 Heute haben wir mit Pixelart das Bild der Minze gemalt und zusammen mit dem Grünkohl aus der letzten Stunde ins Spiel eingefügt.
 ![image](https://user-images.githubusercontent.com/111414678/202114111-7e7086cb-a0dc-40ed-bb6d-1ccfb299c72b.png)
+
+link für neste stune https://www.youtube.com/watch?v=VnR6i7BXD-E
