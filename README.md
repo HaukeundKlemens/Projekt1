@@ -127,5 +127,5 @@ Heute haben wir mit Pixelart das Bild der Minze gemalt und zusammen mit dem Grü
 In der heutigen Stunde haben wir...
 
 
-link für neste stune https://www.youtube.com/watch?v=VnR6i7BXD-E score counter aber vorher...
-+ bei player unden guggen wegen : schlange für player ersetzen und World zu Knightworld machen und nochmal vergleichen mit tutorialhttps://www.youtube.com/watch?v=paESiHkp9mE
+link für neste stune https://www.youtube.com/watch?v=VnR6i7BXD-E score counter aber vorher... SCORE COUNT MACHN
+tutorialhttps://www.youtube.com/watch?v=paESiHkp9mE
