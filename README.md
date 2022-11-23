@@ -127,6 +127,8 @@ Heute haben wir mit Pixelart das Bild der Minze gemalt und zusammen mit dem Grü
 
 ### <a name="18"></a>Mittwoch, 23. November 2022
 In der heutigen Stunde haben wir ein Problem mit dem Code gelöst und es geschafft. dass der Game-Over-Screen funktioniert.
+![image](https://user-images.githubusercontent.com/111414678/203496123-4a15f8e1-a30d-4f49-b8db-ce543b90f38b.png)
+
 Danach haben wir auch noch
 
 
