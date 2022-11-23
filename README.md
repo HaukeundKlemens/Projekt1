@@ -124,7 +124,8 @@ Heute haben wir mit Pixelart das Bild der Minze gemalt und zusammen mit dem Grü
 ![image](https://user-images.githubusercontent.com/111414678/202114111-7e7086cb-a0dc-40ed-bb6d-1ccfb299c72b.png)
 
 ### <a name="18"></a>Mittwoch, 23. November 2022
-In der heutigen Stunde haben wir...
+In der heutigen Stunde haben wir ein Problem mit dem Code gelöst, sodass der Game-Over-Screen funktioniert.
+Danach haben wir auch noch
 
 
 link für neste stune https://www.youtube.com/watch?v=VnR6i7BXD-E score counter aber vorher... SCORE COUNT MACHN
