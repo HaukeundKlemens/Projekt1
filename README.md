@@ -135,11 +135,11 @@ Danach haben wir auch noch mit dem Score counter angefangen.
 ### <a name="19"></a>Dienstag, 6. Dezember 2022
 Wir haben heute das Pixelart für den Kuchen gemacht.
 ![image](https://user-images.githubusercontent.com/111414678/205904197-6cd74a03-ba57-425d-b408-8015f3215017.png)
-Danach haben wir einen win-Screen in das Spiel eingebaut.
+Danach haben wir versucht, einen Win-Screen einzubauen, der durch den Kuchen aktiviert wird.
 
 
-
-link für neste stune https://www.youtube.com/watch?v=VnR6i7BXD-E score counter aber vorher...
+kuchen darf sich nicht mit player bewegen, irgendwas fehlt, dass kuchen von player gegessen wird, da gucken
+//link für neste stune https://www.youtube.com/watch?v=VnR6i7BXD-E score counter aber vorher...
 tutorialhttps://www.youtube.com/watch?v=paESiHkp9mE
 - SCORE COUNT MACHN
 - Du hast Gewonnen- Bildschirm MACHN
