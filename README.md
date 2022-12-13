@@ -137,6 +137,10 @@ Wir haben heute das Pixelart für den Kuchen gemacht.
 ![image](https://user-images.githubusercontent.com/111414678/205904197-6cd74a03-ba57-425d-b408-8015f3215017.png)
 Danach haben wir versucht, einen Win-Screen einzubauen, der durch den Kuchen aktiviert wird.
 
+dasjdjas irgendein Tag lol
+![image](https://user-images.githubusercontent.com/111414678/207313441-a79be5ed-70b0-4953-983e-6b23b3c2c1bb.png)
+
+
 
 kuchen darf sich nicht mit player bewegen, irgendwas fehlt, dass kuchen von player gegessen wird, da gucken
 //link für neste stune https://www.youtube.com/watch?v=VnR6i7BXD-E score counter aber vorher...
