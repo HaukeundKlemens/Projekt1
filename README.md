@@ -141,9 +141,12 @@ Danach haben wir versucht, einen Win-Screen einzubauen, der durch den Kuchen akt
 ### <a name="20"></a>Mittwoch, 7. Dezember 2022
 Heute war Klemens krank, ich habe unter anderem einen Win-Bildschirm hinzugefügt, sowie ein zweites Level erstellt. Dort habe ich einen Bug gefixt, der den spieler1 sofort gestoppt hat. Das habe ich dadurch gelöst, dass ich einen eigenen "actor" mit fast dem gleichen Code eingefügt habe.
 
-dasjdjas irgendein Tag lol
+### <a name="21"></a>Dienstag, 13. Dezember 2022
+In der heutigen Stunde haben wir das erste Level komplett fertigfgestellt. Danach haben wir mit Pixelart eine Informationstafel für den Levelbeginn gemalt. 
 ![image](https://user-images.githubusercontent.com/111414678/207313441-a79be5ed-70b0-4953-983e-6b23b3c2c1bb.png)
 
+### <a name="22"></a>Mittwoch, 14. Dezember 2022
+Wir haben heute die Informationstafel in das Spiel eingefügt. Danach haben wir es geschafft, dass der dead-Bildschirm im zweiten Level funktioniert, was daran lag, dass wir nur die eat-Methode und nicht die eatPlayer2-Methode in den Code geschrieben haben.
 
 
 kuchen darf sich nicht mit player bewegen, irgendwas fehlt, dass kuchen von player gegessen wird, da gucken
