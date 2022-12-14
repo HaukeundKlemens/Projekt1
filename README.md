@@ -48,6 +48,7 @@
 
 [Dienstag, 6. Dezember 2022](#19)
 
+[Mittwoch, 7. Dezember 2022](#20)
 
 ### <a name="1"></a>Mittwoch, 17. August 2022
 
@@ -136,6 +137,9 @@ Danach haben wir auch noch mit dem Score counter angefangen.
 Wir haben heute das Pixelart für den Kuchen gemacht.
 ![image](https://user-images.githubusercontent.com/111414678/205904197-6cd74a03-ba57-425d-b408-8015f3215017.png)
 Danach haben wir versucht, einen Win-Screen einzubauen, der durch den Kuchen aktiviert wird.
+
+### <a name="20"></a>Mittwoch, 7. Dezember 2022
+Heute war Klemens krank, ich habe unter anderem einen Win-Bildschirm hinzugefügt, sowie ein zweites Level erstellt. Dort habe ich einen Bug gefixt, der den spieler1 sofort gestoppt hat. Das habe ich dadurch gelöst, dass ich einen eigenen "actor" mit fast dem gleichen Code eingefügt habe.
 
 dasjdjas irgendein Tag lol
 ![image](https://user-images.githubusercontent.com/111414678/207313441-a79be5ed-70b0-4953-983e-6b23b3c2c1bb.png)
