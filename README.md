@@ -146,7 +146,7 @@ In der heutigen Stunde haben wir das erste Level komplett fertigfgestellt. Danac
 ![image](https://user-images.githubusercontent.com/111414678/207313441-a79be5ed-70b0-4953-983e-6b23b3c2c1bb.png)
 
 ### <a name="22"></a>Mittwoch, 14. Dezember 2022
-Wir haben heute die Informationstafel in das Spiel eingefügt. Danach haben wir es geschafft, dass der dead-Bildschirm im zweiten Level funktioniert, was daran lag, dass wir nur die eat-Methode und nicht die eatPlayer2-Methode in den Code geschrieben haben.
+Wir haben heute die Informationstafel in das Spiel eingefügt. Danach haben wir es geschafft, dass der dead-Bildschirm im zweiten Level funktioniert, was daran lag, dass wir nur die eat-Methode und nicht die eatPlayer2-Methode in den Code geschrieben haben. Danach haben wir angefangeen, unsere Projektseite zu schreiben.
 
 
 kuchen darf sich nicht mit player bewegen, irgendwas fehlt, dass kuchen von player gegessen wird, da gucken
