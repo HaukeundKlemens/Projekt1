@@ -153,5 +153,4 @@ kuchen darf sich nicht mit player bewegen, irgendwas fehlt, dass kuchen von play
 //link für neste stune https://www.youtube.com/watch?v=VnR6i7BXD-E score counter aber vorher...
 tutorialhttps://www.youtube.com/watch?v=paESiHkp9mE
 - SCORE COUNT MACHN
-- Du hast Gewonnen- Bildschirm MACHN
 - Startbildschirm mit "Sir ... möchte einen leckeren Eintopf kochen. Hilf ihm dabei, indem du die Zutataten Grünkohl und Minze zu sammeln. Hütete dich jedoch vor den bösen Schlangen, die dich töten wollen." MACHN
