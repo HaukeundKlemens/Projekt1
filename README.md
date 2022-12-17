@@ -103,10 +103,12 @@ Außerdem haben wir die Jumpn-Run Tutorials vom Informatikkeller weitergeguckt.
 https://www.youtube.com/watch?v=VhA8GYBl59o
 
 ### <a name="11"></a>Mittwoch, 28.September 2022
-Heute habe ich den Ritter zum Springen gebracht, allerdings ist noch irgendwo ein Fehler im Mehrfachspringen.(Das lag daran, dass er auf Plattformen Springen kann, der Rasen ist allerdings keine Plattform, sondern eine willkürlich gezogene Linie, weshalb er dort nicht springen konnte.)
+Heute habe ich den Ritter zum Springen gebracht, allerdings ist noch irgendwo ein Fehler im Mehrfachspringen.
+Das lag daran, dass er auf Plattformen Springen kann.
+Der Rasen ist allerdings keine Plattform, sondern eine willkürlich gezogene Linie, weshalb er dort nicht springen konnte.
 
 ### <a name="12"></a>Mittwoch, 5. Oktober 2022
-In der heutigen Stunde haben wir es geschafft, herauszufinden wie die Welt heißt.
+In der heutigen Stunde haben wir es zuerst geschafft, herauszufinden, wie die Welt heißt.
 Wir haben das Tutorial geguckt und haben dadurch erfahren, wie man eine Welt dazu bringt, unendlich zu sein.
 https://www.youtube.com/watch?v=FoD7cjW_5lU
 ![image](https://user-images.githubusercontent.com/111414678/194000603-b8c89721-62b2-477c-8dcb-8765b3e7a047.png)
@@ -115,39 +117,43 @@ https://www.youtube.com/watch?v=FoD7cjW_5lU
 Wir haben in der heutigen Stunde das Problem gehabt, dass unser Code nicht funktioniert hat und die Welt nicht verschoben wurde, dabei haben wir unter anderem einen fehler mit den Steuerungstasten behoben, wo wir die Methode zweimal geschrieben haben. Hilfreich dafür war dieses Tutorial von informatikkeller. https://www.youtube.com/watch?v=FoD7cjW_5lU&t=1565s
 
 ### <a name="14"></a>Mittwoch, 2. November 2022
-Heute haben wir es in der ersten Stunde geschafft, unseren Fehler zu beheben und den Hintergrund zum scrollen zu bringen, sodass sich die Hindernisse mitbewegen und der Player nicht. In der zweiten Stunde haben wir dann
+Heute haben wir es geschafft, unseren Fehler zu beheben und den Hintergrund zum scrollen zu bringen, sodass sich die Hindernisse mitbewegen und der Player nicht.
+Dabei ist Player eigentlich das einzige, das sich nicht bewegt. Trotzdem sieht es so aus, als wäre es andersherum, was auch der Sinn der Sache ist.
 
 ### <a name="15"></a>Dienstag, 8.November 2022
-In der heutigen Stunde hatten wir das Problem, dass der Frosch aus der Welt gefallen ist. Dieses Problem konnten wir in dieser Stunde noch nicht lösen. Wir haben aber herausgefunden, dass man einen Frosch auf einer Mauern sitzen lassen kann, wenn man die Pixelhöhe des Frosches ändert. 
+In der heutigen Stunde hatten wir das Problem, dass der Frosch aus der Welt gefallen ist. Dieses Problem konnten wir in dieser Stunde noch nicht lösen. Wir haben aber herausgefunden, dass man einen Frosch auf einer Mauern sitzen lassen kann, wenn man die Pixelhöhe des Frosches ändert. Das haben wir dann auch in unser Spiel eingebaut.
 
 ### <a name="16"></a>Mittwoch, 9. November 2022
 Wir haben heute die Plattformen des Jump and Runs in die Welt geschrieben und auf pixelart.com ein Bild für den Grünkohl gemalt. Außerdem haben wir die Schlange dazu gebracht, den Spieler zu töten. Die Plattformen sind auch miteinander verbunden.
 ![image](https://user-images.githubusercontent.com/111414678/200775384-f1a68ee8-6a0a-4be0-b7ba-00df93c7c7e3.png)
-Hier das Bild vom Grünkohl mit einem Ausschnitt vom Code.
+Hier das Bild vom Grünkohl mit einem Ausschnitt vom Code der Welt namens Knightworld.
 
 ### <a name="17"></a>Mittwoch, 16. November 2022
-Heute haben wir mit Pixelart das Bild der Minze gemalt und zusammen mit dem Grünkohl aus der letzten Stunde ins Spiel eingefügt.
+Heute haben wir mit Pixelart das Bild der Minze gemalt und zusammen mit dem Grünkohl aus der letzten Stunde in Form von 2 Actors namens "Grünkohl" und "Minze" ins Spiel eingefügt. Diese Actors sollen im Spiel vom Spieler gegessen werden können.
 ![image](https://user-images.githubusercontent.com/111414678/202114111-7e7086cb-a0dc-40ed-bb6d-1ccfb299c72b.png)
 
 ### <a name="18"></a>Mittwoch, 23. November 2022
-In der heutigen Stunde haben wir ein Problem mit dem Code gelöst und es geschafft. dass der Game-Over-Screen funktioniert.
+In der heutigen Stunde haben wir ein Problem mit dem Code gelöst und es geschafft. dass der Game-Over-Screen funktioniert. Das haben wir so gemacht, dass ein "dead" im Spiel erscheint, wenn der Spieler gestorben bzw. von der Schlange getötet wird. Für den dead-Screen haben wir rote und schwarze Farbe verwendet.
 ![image](https://user-images.githubusercontent.com/111414678/203496123-4a15f8e1-a30d-4f49-b8db-ce543b90f38b.png)
-Danach haben wir auch noch mit dem Score counter angefangen.
 
 ### <a name="19"></a>Dienstag, 6. Dezember 2022
 Wir haben heute das Pixelart für den Kuchen gemacht.
 ![image](https://user-images.githubusercontent.com/111414678/205904197-6cd74a03-ba57-425d-b408-8015f3215017.png)
-Danach haben wir versucht, einen Win-Screen einzubauen, der durch den Kuchen aktiviert wird.
+Danach haben wir versucht, einen Win-Screen einzubauen, der durch den Kuchen aktiviert wird. Dabei wird der Win-Screen aktiviert, wenn der Kuchen vom Spieler gegessen bzw. der Actor Kuchen nicht mehr da ist. Für den Win-Screen haben wir grüne und schwarze Farbe genutzt.
 
 ### <a name="20"></a>Mittwoch, 7. Dezember 2022
-Heute war Klemens krank, ich habe unter anderem einen Win-Bildschirm hinzugefügt, sowie ein zweites Level erstellt. Dort habe ich einen Bug gefixt, der den spieler1 sofort gestoppt hat. Das habe ich dadurch gelöst, dass ich einen eigenen "actor" mit fast dem gleichen Code eingefügt habe.
+Heute war Klemens krank, ich habe unter anderem den Win-Bildschirm hinzugefügt, sowie ein zweites Level erstellt. Dort habe ich einen Bug gefixt, der den spieler1 sofort gestoppt hat. Das habe ich dadurch gelöst, dass ich einen eigenen "actor" mit fast dem gleichen Code eingefügt habe.
 
 ### <a name="21"></a>Dienstag, 13. Dezember 2022
-In der heutigen Stunde haben wir das erste Level komplett fertigfgestellt. Danach haben wir mit Pixelart eine Informationstafel für den Levelbeginn gemalt. 
+In der heutigen Stunde haben wir beim Platzieren der Plattformen im ersten Level die letzten Änderungen vorgenommen und haben das erste Level komplett fertiggestellt. Danach haben wir mit Pixelart eine Informationstafel für den Levelbeginn gemalt.
+
 ![image](https://user-images.githubusercontent.com/111414678/207313441-a79be5ed-70b0-4953-983e-6b23b3c2c1bb.png)
 
 ### <a name="22"></a>Mittwoch, 14. Dezember 2022
-Wir haben heute die Informationstafel in das Spiel eingefügt. Danach haben wir es geschafft, dass der dead-Bildschirm im zweiten Level funktioniert, was daran lag, dass wir nur die eat-Methode und nicht die eatPlayer2-Methode in den Code geschrieben haben. Danach haben wir angefangeen, unsere Projektseite zu schreiben.
+Wir haben heute die Informationstafel in das Spiel eingefügt. Danach haben wir es geschafft, dass der dead-Bildschirm im zweiten Level funktioniert, was daran lag, dass wir nur die eat-Methode und nicht die eatPlayer2-Methode in den Code geschrieben haben. Danach haben wir angefangen, unsere Projektseite zu schreiben.
+
+### <a name="23"></a>Samstag, 17. Dezember 2022
+Heute haben wir die letzten Änderungen im Spiel vorgenommen. Dafür haben wir zuerst Sounds für das Essen, für den Win-Screen und den dead-Screen aufgenommen und in das Spiel eingefügt.
 
 
 kuchen darf sich nicht mit player bewegen, irgendwas fehlt, dass kuchen von player gegessen wird, da gucken
