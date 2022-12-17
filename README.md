@@ -153,7 +153,7 @@ In der heutigen Stunde haben wir beim Platzieren der Plattformen im ersten Level
 Wir haben heute die Informationstafel in das Spiel eingefügt. Danach haben wir es geschafft, dass der dead-Bildschirm im zweiten Level funktioniert, was daran lag, dass wir nur die eat-Methode und nicht die eatPlayer2-Methode in den Code geschrieben haben. Danach haben wir angefangen, unsere Projektseite zu schreiben.
 
 ### <a name="23"></a>Samstag, 17. Dezember 2022
-Heute haben wir die letzten Änderungen im Spiel vorgenommen. Dafür haben wir zuerst Sounds für das Essen, für den Win-Screen und den dead-Screen aufgenommen und in das Spiel eingefügt.
+Heute haben wir die letzten Änderungen im Spiel vorgenommen. Dafür haben wir zuerst Sounds für den Spieler, wenn er Grünkohl, Minze oder Kuchen isst, für den Frosch, wenn dieser eine Fliege isst, für den Win-Screen und für den dead-Screen aufgenommen und in das Spiel eingefügt.
 
 
 kuchen darf sich nicht mit player bewegen, irgendwas fehlt, dass kuchen von player gegessen wird, da gucken
