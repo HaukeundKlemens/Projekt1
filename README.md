@@ -56,6 +56,9 @@
 
 [Samstag, 17. Dezember 2022](#23)
 
+[Sonntag, 18. Dezember 2022](#24)
+
+
 ### <a name="1"></a>Mittwoch, 17. August 2022
 
 Heute haben wir uns bei Github angemeldet und erste Schritte auf GIthub unternommen. Wir haben es geschafft, einen neuen File zu erstellen und auch in die Codes von Herrn Buhl geschaut, um zu sehen, wie die Codes funktionieren. Außerden haben wir uns überlegt, ein Jump and run Spiel zu bauen.
@@ -161,6 +164,7 @@ Wir haben heute die Informationstafel in das Spiel eingefügt. Danach haben wir 
 ### <a name="23"></a>Samstag, 17. Dezember 2022
 Heute haben wir die letzten Änderungen im Spiel vorgenommen. Dafür haben wir zuerst Sounds für den Spieler, wenn er Grünkohl, Minze oder Kuchen isst, für den Frosch, wenn dieser eine Fliege isst, für den Win-Screen und für den dead-Screen aufgenommen und in das Spiel eingefügt.
 
+### <a name="24"></a>Sonntag, 18. Dezember 2022
 
 kuchen darf sich nicht mit player bewegen, irgendwas fehlt, dass kuchen von player gegessen wird, da gucken
 //link für neste stune https://www.youtube.com/watch?v=VnR6i7BXD-E score counter aber vorher...
