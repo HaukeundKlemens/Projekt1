@@ -163,6 +163,8 @@ Wir haben heute die Informationstafel in das Spiel eingefügt. Danach haben wir 
 
 ### <a name="23"></a>Samstag, 17. Dezember 2022
 Heute haben wir die letzten Änderungen im Spiel vorgenommen. Dafür haben wir zuerst Sounds für den Spieler, wenn er Grünkohl, Minze oder Kuchen isst, für den Frosch, wenn dieser eine Fliege isst, für den Win-Screen und für den dead-Screen aufgenommen und in das Spiel eingefügt, außerdem haben wir einen actor mit einer Beschreibung in das Spiel hinzugefügt.
+![image](https://user-images.githubusercontent.com/111414678/208298732-4f5dd466-cc8c-4329-b922-d976a2db20cf.png)
+
 
 ### <a name="24"></a>Sonntag, 18. Dezember 2022
 heute haben wir letzte Bugs behoben, zum Beispiel, das die Todesmeldung nicht mehr angezeigt wurde und stattdessen eine Fehlermeldung angezeigt wurde. Das haben wir durch das einfügen eines schlangenactors in beide Spiele behoben.außerdem gibt es seltsamerweise eine Schlange, die aus dem code entfernt wurde, aber immer noch existiert, auch die deleate Funktion hat mehrfach nicht funktioniert. Außerdem haben wir die Codes "aufgeräumt".
