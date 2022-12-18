@@ -174,8 +174,3 @@ Außerdem gab es einige Bugs.
 ![image](https://user-images.githubusercontent.com/111414678/208301389-980e6fee-f686-4b7c-92f2-6d80fda58ab9.png)
 Hier hat sich der Player2 zum Beispiel vervielfältigt.
 
-kuchen darf sich nicht mit player bewegen, irgendwas fehlt, dass kuchen von player gegessen wird, da gucken
-//link für neste stune https://www.youtube.com/watch?v=VnR6i7BXD-E score counter aber vorher...
-tutorialhttps://www.youtube.com/watch?v=paESiHkp9mE
-- SCORE COUNT MACHN
-- Startbildschirm mit "Sir ... möchte einen leckeren Eintopf kochen. Hilf ihm dabei, indem du die Zutataten Grünkohl und Minze zu sammeln. Hütete dich jedoch vor den bösen Schlangen, die dich töten wollen." MACHN
