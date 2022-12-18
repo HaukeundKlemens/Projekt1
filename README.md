@@ -165,7 +165,9 @@ Wir haben heute die Informationstafel in das Spiel eingefügt. Danach haben wir 
 Heute haben wir die letzten Änderungen im Spiel vorgenommen. Dafür haben wir zuerst Sounds für den Spieler, wenn er Grünkohl, Minze oder Kuchen isst, für den Frosch, wenn dieser eine Fliege isst, für den Win-Screen und für den dead-Screen aufgenommen und in das Spiel eingefüg, außerdem haben wir die Projektseite angefangen.
 
 ### <a name="24"></a>Sonntag, 18. Dezember 2022
-heute haben wir letzte Bugs behoben, zum Beispiel, das die Todesmeldung nicht mehr angezeigt wurde und stattdessen eine Fehlermeldung angezeigt wurde. Das haben wir durch das einfügen eines schlangenactors in beide Spiele behoben.außerdem gibt es seltsamerweise eine Schlange, die aus dem code entfernt wurde, aber immer noch existiert, auch die deleate Funktion hat mehrfach nicht funktioniert.
+heute haben wir letzte Bugs behoben, zum Beispiel, das die Todesmeldung nicht mehr angezeigt wurde und stattdessen eine Fehlermeldung angezeigt wurde. Das haben wir durch das einfügen eines schlangenactors in beide Spiele behoben.außerdem gibt es seltsamerweise eine Schlange, die aus dem code entfernt wurde, aber immer noch existiert, auch die deleate Funktion hat mehrfach nicht funktioniert. Außerdem haben wir die Codes "aufgeräumt".
+![image](https://user-images.githubusercontent.com/111414678/208298607-9d4a521a-e203-4530-aada-90cb96434b03.png)
+
 
 kuchen darf sich nicht mit player bewegen, irgendwas fehlt, dass kuchen von player gegessen wird, da gucken
 //link für neste stune https://www.youtube.com/watch?v=VnR6i7BXD-E score counter aber vorher...
