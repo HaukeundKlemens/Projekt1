@@ -170,6 +170,9 @@ Heute haben wir die letzten Änderungen im Spiel vorgenommen. Dafür haben wir z
 Heute haben wir letzte Bugs behoben. Zum Beispiel, dass die Todesmeldung nicht mehr angezeigt wurde und stattdessen eine Fehlermeldung angezeigt wurde. Das haben wir durch das Einfügen eines Schlangenactors in beide Spiele behoben. Außerdem gibt es seltsamerweise eine Schlange, die aus dem Code entfernt wurde, aber immer noch existiert. Auch die delete-Funktion hat mehrfach nicht funktioniert. Außerdem haben wir die Codes "aufgeräumt".
 ![image](https://user-images.githubusercontent.com/111414678/208298607-9d4a521a-e203-4530-aada-90cb96434b03.png)
 Zudem haben wir beschlossen, dass wir die Steuerung des Frosches beibehalten wollen, als eine Art Easteregg.
+Außerdem gab es einige Bugs.
+![image](https://user-images.githubusercontent.com/111414678/208301389-980e6fee-f686-4b7c-92f2-6d80fda58ab9.png)
+
 
 kuchen darf sich nicht mit player bewegen, irgendwas fehlt, dass kuchen von player gegessen wird, da gucken
 //link für neste stune https://www.youtube.com/watch?v=VnR6i7BXD-E score counter aber vorher...
