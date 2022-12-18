@@ -162,9 +162,10 @@ In der heutigen Stunde haben wir beim Platzieren der Plattformen im ersten Level
 Wir haben heute die Informationstafel in das Spiel eingefügt. Danach haben wir es geschafft, dass der dead-Bildschirm im zweiten Level funktioniert, was daran lag, dass wir nur die eat-Methode und nicht die eatPlayer2-Methode in den Code geschrieben haben. Danach haben wir angefangen, unsere Projektseite zu schreiben.
 
 ### <a name="23"></a>Samstag, 17. Dezember 2022
-Heute haben wir die letzten Änderungen im Spiel vorgenommen. Dafür haben wir zuerst Sounds für den Spieler, wenn er Grünkohl, Minze oder Kuchen isst, für den Frosch, wenn dieser eine Fliege isst, für den Win-Screen und für den dead-Screen aufgenommen und in das Spiel eingefügt.
+Heute haben wir die letzten Änderungen im Spiel vorgenommen. Dafür haben wir zuerst Sounds für den Spieler, wenn er Grünkohl, Minze oder Kuchen isst, für den Frosch, wenn dieser eine Fliege isst, für den Win-Screen und für den dead-Screen aufgenommen und in das Spiel eingefüg, außerdem haben wir die Projektseite angefangen.
 
 ### <a name="24"></a>Sonntag, 18. Dezember 2022
+heute haben wir letzte Bugs behoben, zum Beispiel, das die Todesmeldung nicht mehr angezeigt wurde und stattdessen eine Fehlermeldung angezeigt wurde. Das haben wir durch das einfügen eines schlangenactors in beide Spiele behoben.außerdem gibt es seltsamerweise eine Schlange, die aus dem code entfernt wurde, aber immer noch existiert, auch die deleate Funktion hat mehrfach nicht funktioniert.
 
 kuchen darf sich nicht mit player bewegen, irgendwas fehlt, dass kuchen von player gegessen wird, da gucken
 //link für neste stune https://www.youtube.com/watch?v=VnR6i7BXD-E score counter aber vorher...
