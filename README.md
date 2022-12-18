@@ -172,7 +172,7 @@ Heute haben wir letzte Bugs behoben. Zum Beispiel, dass die Todesmeldung nicht m
 Zudem haben wir beschlossen, dass wir die Steuerung des Frosches beibehalten wollen, als eine Art Easteregg.
 Außerdem gab es einige Bugs.
 ![image](https://user-images.githubusercontent.com/111414678/208301389-980e6fee-f686-4b7c-92f2-6d80fda58ab9.png)
-
+Hier hat sich der Player2 zum Beispiel vervielfältigt.
 
 kuchen darf sich nicht mit player bewegen, irgendwas fehlt, dass kuchen von player gegessen wird, da gucken
 //link für neste stune https://www.youtube.com/watch?v=VnR6i7BXD-E score counter aber vorher...
